@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sweta Saraf -- <role> -- <twitter>
 
 # THANKS
 
