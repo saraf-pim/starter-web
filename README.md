@@ -10,6 +10,8 @@ This is example to show different parts of the Git repository and various comman
 
 As stated above, the main purpose is to provide simple examples for Git demo.
 Adding a line for rebase at master branch.
+Making some more changes after rebased changes which was made in master.
+One more update for testing.
 
 ## Deployment
 
