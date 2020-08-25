@@ -3,11 +3,11 @@
 
 # TEAM
 
-    Sweta Saraf -- <role> -- <twitter>
+    Sweta Saraf -- as student -- <twitter>
 
 # THANKS
 
-    <name>
+   Sweta
 
 # TECHNOLOGY COLOPHON
 
