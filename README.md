@@ -23,5 +23,5 @@ Please fork this repository and then issue Pull Request for review.
 
 ### Copyright
 
-2020 Git.Training.
+2020 Git.Training. Text update for stash example.
 
