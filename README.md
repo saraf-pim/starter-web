@@ -1,6 +1,7 @@
 # Starter Web Repo/Project
 
 This repository/project is for showing how Git and GitHub works together.
+Updating for emergency fix after stashing.
 
 ## Introduction
 
